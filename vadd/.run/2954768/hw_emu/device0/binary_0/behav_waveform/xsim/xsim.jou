@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# xsim v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Jul 25 12:28:44 2024
+# Process ID: 2954828
+# Current directory: /scratch/aross50/examples/vadd/.run/2954768/hw_emu/device0/binary_0/behav_waveform/xsim
+# Command line: xsim -log simulate.log -mode tcl -source {xsim.dir/pfm_top_wrapper_behav/xsim_script.tcl}
+# Log file: /scratch/aross50/examples/vadd/.run/2954768/hw_emu/device0/binary_0/behav_waveform/xsim/simulate.log
+# Journal file: /scratch/aross50/examples/vadd/.run/2954768/hw_emu/device0/binary_0/behav_waveform/xsim/xsim.jou
+# Running On        :pal-achieve-04
+# Platform          :unknown
+# Operating System  :unknown
+# Processor Detail  :Intel(R) Xeon(R) w5-3433
+# CPU Frequency     :2000.000 MHz
+# CPU Physical cores:16
+# CPU Logical cores :32
+# Host memory       :539441 MB
+# Swap memory       :268435 MB
+# Total Virtual     :807877 MB
+# Available Virtual :802561 MB
+#-----------------------------------------------------------
+source xsim.dir/pfm_top_wrapper_behav/xsim_script.tcl
+source pfm_top_wrapper.tcl
