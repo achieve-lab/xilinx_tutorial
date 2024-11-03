@@ -65,3 +65,4 @@ More examples of host and kernel code can be found in resources provided by AMD,
 
 These examples also provide other methods of file compilation and linking, such as through the use of tcl script files.
 
+Once you are finished exploring this vector addition example, please remember to clean this example directory from your scratch folder.
